@@ -1,0 +1,41 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/Tercer Semestre/POO/Practicas/Práctica 6/POOP6ide/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/Tercer Semestre/POO/Practicas/Práctica 6/POOP6ide/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP6ide 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/Tercer Semestre/POO/Practicas/Práctica 6/POOP6ide/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'POOP6ide 1.0-SNAPSHOT API'
+com.mycompany.poop6ide
+'C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/Tercer Semestre/POO/Practicas/Práctica 6/POOP6ide/src/main/java/com/mycompany/poop6ide/Main.java'
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 6\POOP6ide\src\main\java = 1634820857704
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 6\POOP6ide\target\site\apidocs\allclasses-frame.html = 1634821842054
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 6\POOP6ide\target\site\apidocs\allclasses-noframe.html = 1634821842055
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 6\POOP6ide\target\site\apidocs\constant-values.html = 1634821842018
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 6\POOP6ide\target\site\apidocs\deprecated-list.html = 1634821842052
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 6\POOP6ide\target\site\apidocs\help-doc.html = 1634821842061
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 6\POOP6ide\target\site\apidocs\index-all.html = 1634821842048
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 6\POOP6ide\target\site\apidocs\index.html = 1634821842057
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 6\POOP6ide\target\site\apidocs\overview-tree.html = 1634821842044
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 6\POOP6ide\target\site\apidocs\package-list = 1634821841980
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 6\POOP6ide\target\site\apidocs\script.js = 1634821842065
+C:\Users\angel\OneDrive\Escritorio\UNIVERSIDAD\Tercer Semestre\POO\Practicas\Práctica 6\POOP6ide\target\site\apidocs\stylesheet.css = 1634821842064
